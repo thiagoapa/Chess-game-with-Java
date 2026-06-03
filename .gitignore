@@ -1,0 +1,15 @@
+# Compilados
+out/
+*.class
+build/
+target/
+
+# IntelliJ (se conservan los archivos de proyecto base, se ignora lo volátil)
+.idea/workspace.xml
+.idea/usage.statistics.xml
+.idea/shelf/
+*.iml.bak
+
+# SO
+.DS_Store
+Thumbs.db
